@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-chat-be56f": {
+      "hosting": {
+        "app": [
+          "ionic-chat-be56f"
+        ]
+      }
+    }
+  }
+}
